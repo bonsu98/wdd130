@@ -1,0 +1,45 @@
+body {
+  display: block;
+  margin: 0% 20% 0% 20%;
+}
+
+header p{
+    background-color: rgb(50 50 50 /1);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+ 
+h1 {
+    text-align: center;
+}
+h2 {
+    border-bottom: 1px solid black;
+}
+main{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 400px;
+}
+main picture {
+    display: block;
+} 
+main picture img {
+    width: 400px;
+    box-shadow: -1px 0px 10px 8px rgb(50 50 50 / 35%);
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+    }
+section {
+    margin: 15px;
+    background-color: lightgray;
+    padding: 15px;
+    box-sizing: border-box;
+}
+footer p{
+    background-color: rgb(50 50 50 / 1);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
