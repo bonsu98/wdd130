@@ -12,7 +12,9 @@ nav a {
 h1 {
     color: darkblue;
 }
-
+main{
+    max-width: 840px;
+}
 
 main img {
     width: 150px;
@@ -33,6 +35,7 @@ aside {
     background-color: azure;
     color: black;
     text-align: center;
+    padding: 1rem;
 }
 aside img{
     width: 200px;
